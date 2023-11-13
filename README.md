@@ -1,6 +1,6 @@
 ### Namaste 🙏, I'm Krishna Chethan Shetty!
 
-- 🎓 Final-year Information Science undergrad at Sahyadri College of Engineering.
+- 🎓 Third-year Information Science undergrad at Sahyadri College of Engineering.
 - 💡 Tech enthusiast with a profound passion for unraveling the intricacies of AI, machine learning, and the dynamic realm of data analytics.
 - 🚀 Actively exploring the limitless possibilities at the crossroads of technology and innovation.
 
